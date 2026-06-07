@@ -1,4 +1,4 @@
-# Day 14 - File Handling 🐍
+# Day 14 - File Handling 
 
 ## 📌 Topics Covered
 - Introduction to File Handling
