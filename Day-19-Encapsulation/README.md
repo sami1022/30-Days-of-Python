@@ -1,4 +1,4 @@
-# Day 19 - Encapsulation 🐍
+# Day 19 - Encapsulation 
 
 ## 📌 Topics Covered
 - Introduction to Encapsulation
